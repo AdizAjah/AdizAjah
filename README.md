@@ -1,5 +1,5 @@
-- 👋 Hi, Gw Adiz
-- 👀 Gw tertarik dengan Anime
+- 👋 Hi, Aku Adiz
+- 👀 Aku tertarik dengan sesuatu yang menarik
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
