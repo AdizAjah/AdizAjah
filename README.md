@@ -64,11 +64,11 @@ Thanks udah mampir, bro! Stay creative & keep coding 🤘💻🔥
 ## 📊 GitHub Stats & Analytics
 
 ```md
-![Jon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RainadizDanendraNugroho&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rainadizdanendra-5532&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainadizDanendraNugroho&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainadizdanendra-5532&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RainadizDanendraNugroho&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rainadizdanendra-5532&theme=radical)
 ```
 
 ## 🧪 Activity Graph
