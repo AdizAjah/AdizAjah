@@ -1,33 +1,29 @@
-# 🚀 Welcome to My GitHub Playground!
+# AdizAjah
 
-Halo! Selamat datang di markas besar proyek-proyek gw. Di sini tempat semua ide random, eksperimen ngoding, dan project serius gw numpuk jadi satu. Santai aja, vibe-nya dibuat fun tapi tetep profesional 🤙🔥
-
+Halo, jadi selamat datang di github ku yang isinya random semua.
 ---
 
-## 🌟 Siapa Gw?
+## 🌟 Who am I ?
 
-Gw Jon — seorang software engineer sekaligus siswa yang doyan banget ngoprek hal baru di dunia coding. Anak **Laravel**, **Flutter**, **PHP**, **Tailwind**, **CSS**, dan temen-temennya.
-
-Kalo kata temen: *“Jon itu orangnya kalo udah ngoding, lupa waktu.”* — ya betul 😭👍
-
+Aku Adiz — seorang software engineer sekaligus siswa yang doyan banget ngoprek hal baru di dunia coding. Anak **Laravel**, **Flutter**, **PHP**, **Tailwind**, **CSS**, dan temen-temennya.
 ---
 
 ## 📂 Isi Repo Ini
 
-Di GitHub ini lu bakal nemuin berbagai macam hal, kayak:
+Di GitHub ini kalian bakal nemuin berbagai macam hal, kayak:
 
 * 💻 **Project serius** hasil kerja keras
-* 🧪 **Experimen kecil** yang gw buat karena gabut
-* 🎨 **UI/UX design** yang gw convert jadi code
+* 🧪 **Experimen kecil** yang Aku buat karena gabut
+* 🎨 **UI/UX design** yang Aku convert jadi code
 * ⚙️ **Project Laravel**, CRUD, API, dan lain-lain
 * 📱 **Flutter apps** ala developer santai
 * 🎮 **Fun code** cuma buat have fun
 
-Intinya? Campur aduk, tapi semuanya bikin gw makin jago.
+Intinya? Campur aduk, tapi semuanya bikin Aku makin jago. Insya Allah
 
 ---
 
-## 🔥 Teknologi yang Sering Gw Pakai
+## 🔥 Teknologi yang Sering Aku Pakai
 
 * **Laravel** & PHP
 * **TailwindCSS**
@@ -40,7 +36,7 @@ Intinya? Campur aduk, tapi semuanya bikin gw makin jago.
 
 ## 📈 Status Perkembangan
 
-Gw lagi rajin-rajinnya ngembangin diri, terutama:
+Aku lagi rajin-rajinnya ngembangin diri, terutama:
 
 * Ngebangun project **Mini E-Library** pake Laravel 12
 * Belajar dan riset soal **database cloud**
@@ -53,15 +49,13 @@ Gw lagi rajin-rajinnya ngembangin diri, terutama:
 
 Jangan malu buat reach out: mau collab, tanya-tanya, atau cuma mau say hai.
 
-* 📧 Email: *(isi sendiri nanti ya)*
-* 🐦 Twitter: *(opsional)*
-* 🧩 Discord: *(opsional)*
+* 📧 Email: *rainadizdanendra@gmail.com*
 
 ---
 
-## ⭐ Support Gw Dong!
+## ⭐ Support Dong!
 
-Kalo lu suka salah satu project gw, jangan lupa **star ⭐ repo-nya**. Serius, itu bikin gw makin semangat ngoding sampe pagi 😭🔥
+Kalo kalian suka salah satu project ku, jangan lupa **star ⭐ repo-nya**. Serius, itu bikin Aku makin semangat ngoding sampe pagi 😭🔥
 
 Thanks udah mampir, bro! Stay creative & keep coding 🤘💻🔥
 
